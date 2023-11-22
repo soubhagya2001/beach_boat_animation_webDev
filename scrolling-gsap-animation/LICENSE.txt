@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+
 Copyright (c) 2023 Nothing_4us (https://codepen.io/nothing4us/pen/RwBowjV)
 Fork of an original work Scrolling GSAP Animation | Nothing4us (https://codepen.io/nothing4us/pen/RwBowjV)
 
